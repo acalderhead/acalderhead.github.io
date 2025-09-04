@@ -1,0 +1,37 @@
+# Site settings
+title: Aidan Calderhead Portfolio
+email: aidan.calderhead@gmail.com
+description: "Portfolio showcasing professional, academic, and personal data projects"
+url: "https://yourusername.github.io"
+
+# Author
+author:
+  name: Aidan Calderhead
+  email: aidan.calderhead@gmail.com
+
+# Theme
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Defaults for posts/pages
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Aidan Calderhead"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Minima theme options (optional)
+minima:
+  skin: dark
+  accent: "#2b6cb0" # example accent color
