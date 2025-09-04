@@ -1,10 +1,6 @@
-1. Add repo description. Give credit to https://github.com/archd3sai/Portfolio/tree/master?tab=readme-ov-file
-2. Add repo tags.
-3. Update Interests header.
-4. Write research interests.
-5. Write behind-the-scenes.
-6. Update Markdown render style
-7. Identify focal projects.
-Create Repos for focal projects
-8. Identify side projects.
-Create Repos for side projects
+Update Interests header.
+Write research interests.
+Write behind-the-scenes.
+Update Markdown render style
+Identify focal projects: Create Repos for focal projects
+Identify side projects: Create Repos for side projects
