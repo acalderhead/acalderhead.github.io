@@ -6,6 +6,8 @@
   <a href="#open-investigations">Interests</a>
 </p>
 
+---
+
 ## Approaching Data: A Batman-Inspired Perspective
 
 I am a **Detective**  → I hunt for patterns hidden in the shadows.  
@@ -18,7 +20,7 @@ Amid the complexity, there is beauty, with patterns waiting to be discovered and
 
 I wrangle the chaos and uncover the beauty—through modeling, optimization, and visualization—to deliver insights that teams can act on with confidence.
 
-<br />
+---
 
 ## Case Files
 
@@ -45,7 +47,7 @@ Here goes your descriptive text. It will wrap around the image.
 Here goes your descriptive text. It will wrap around the image.
 <br clear="all">
 
-<br />
+---
 
 ## Field Notes
 
@@ -62,13 +64,13 @@ EXAMPLES BELOW
 - [SQL Challenges](https://github.com/archd3sai/SQL): This repository contains codes of online SQL challenges (From Hackerrank, Leetcode, Testdome, etc.) solved by me.
 - [Data Science Challenges](https://github.com/archd3sai/DS-Challenges): This repository contains codes of online Data Science challenges (From Hackerrank, TestDome, etc.) solved by me.
  
-<br />
+---
 
 ## Behind the Scenes
 
 TEXT GOES HERE
 
-<br />
+---
 
 ## Open Investigations
 
