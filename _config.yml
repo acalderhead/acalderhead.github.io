@@ -1,37 +1,63 @@
 # Site settings
+# -------------
 title: Aidan Calderhead Portfolio
-email: aidan.calderhead@gmail.com
-description: "Portfolio showcasing professional, academic, and personal data projects, including my areas of research interest. This template was inspired by @archd3sai."
-url: "https://acalderhead.github.io"
 
-# Author
 author:
   name: Aidan Calderhead
   email: aidan.calderhead@gmail.com
 
-# Theme
+# The `>` after `description:` means to ignore line-breaks until next key. If
+#   you wish to omit the line-break after the end of text, use `>-` instead.
+description: >
+  Portfolio showcasing professional, academic, and personal data projects, including 
+  my areas of research interest. Portfolio template credit to @archd3sai.
+
+# Build settings
+# --------------
+# If you wish to use the gem-version of Minima with or without a Gemfile, use
+#   the following setting:
 theme: minima
 
-# Plugins
+# **OR** if you wish to use the theme directly from the GitHub repository by
+#   bypassing a Gemfile, use the following setting instead.
+#   It is best that you lock to a particular commit and update if uptream changes
+#   do not affect your site adversely.
+# remote_theme: jekyll/minima@d4d779a
+
+# Minima requires the following plugins:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Defaults for posts/pages
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Aidan Calderhead"
+# Uncomment the following setting if you wish to disable deprecation warnings
+#   from newer versions of sass converter. Adapt as required.
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
-
-# Minima theme options (optional)
+# Minima-specific settings (applicable to Minima v3 and above only)
+# -----------------------------------------------------------------
 minima:
+#   Minima skin selection. Available skins are:
+#     * classic            Default, light color scheme.
+#     * dark               Dark variant of the classic skin.
+#     * auto               Adaptive skin based on the classic and dark skins.
+#     * solarized-light    Light variant of solarized color scheme.
+#     * solarized-dark     Dark variant of solarized color scheme.
+#     * solarized          Adaptive skin for solarized color scheme skins.
   skin: dark
-  accent: "10e8a4" # example accent color
+  accent: "10e8a4"
+
+#   Social Media Links.
+#     Renders icons via Font Awesome Free webfonts CDN, based on ordered list of
+#     entries. Valid entry keys:
+#       * title    Tooltip rendered on hovering over icon.
+#       * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
+#       * url      Full URL of social profile.
+social_links:
+  - title: Aidan on GitHub
+    icon: github
+    url: "https://github.com/jekyll/minima"
+  - title: Aidan on LinkedIn
+    icon: linkedin
+    url: "https://x.com/jekyllrb"
