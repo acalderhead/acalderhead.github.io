@@ -1,4 +1,3 @@
-# Computational Mathematics Portfolio
 **Contact**  
 aidan.calderhead@gmail.com • [linkedin.com/in/aidan-calderhead](https://www.linkedin.com/in/aidan-calderhead/)
 
@@ -16,6 +15,8 @@ Data surrounds me. Its complexity can be chaotic, full of noise and hidden signa
 Amid the complexity, there is beauty, with patterns waiting to be discovered and insights waiting to be illuminated. Curiosity draws me into new domains. Each domain presents new challenges, each challenge reveals opportunities, and each opportunity produces meaning.
 
 I wrangle the chaos and uncover the beauty—through modeling, optimization, and visualization—to deliver insights that teams can act on with confidence.
+
+<br />
 
 ## Case Files
 
