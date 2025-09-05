@@ -3,12 +3,13 @@ Jekyll Minima Render:
 - Add GitHub Icon
 - Add LinkedIn Icon
 
+README:
+- Align project-to-image text
+- Add ending paragraph
+- Re-select emojis (too busy?)
+
 Sections:
 - Contributions
-- Projects
-  - Identify
-  - Get Images
-  - Create Repos
 - Side Projects
   - Get Images
   - Create Repos
