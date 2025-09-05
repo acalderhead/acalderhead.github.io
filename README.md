@@ -1,4 +1,4 @@
-# Data Science & Operations Research Portfolio
+# Computational Mathematics Portfolio
 **Contact**  
 aidan.calderhead@gmail.com • [linkedin.com/in/aidan-calderhead](https://www.linkedin.com/in/aidan-calderhead/)
 
@@ -69,6 +69,19 @@ TEXT GOES HERE
 
 ## Open Investigations: Research Interests
 
-TEXT GOES HERE
-I'M OPEN TO COLLABORATION!
+My current areas of interest include (but are not limited to):
 
+- **Timetable Optimization**
+  - Education
+  - Tournament
+- **Applied Mathematical Modeling**
+  - Humanitarian Logistics
+  - Urban Traffic Control
+  - Markov Chains
+  - "Opt Art" [Optimization-Inspired Art](https://www.jstor.org/stable/j.ctvh8qxtt)
+- **Machine Learning**
+- **[Bracketology](https://www.researchgate.net/publication/228435078_Bracketology_How_can_math_help)**
+- **Chess Theory**
+- **[Pokemon Type Balancing](https://www.youtube.com/watch?v=f4OY4qhCI04)**
+
+I am open to collaborating on projects (academic, professional, or exploratory) that bring these interests to life, and I always welcome opportunities to explore new problems where computational mathematics can contribute to meaningful impact.
