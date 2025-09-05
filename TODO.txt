@@ -1,4 +1,19 @@
-Update Markdown render style
-Write behind-the-scenes
-Identify focal projects: Create Repos for focal projects
-Identify side projects: Create Repos for side projects
+Jekyll Minima Render:
+- Remove `Subscribe`
+- Add GitHub Icon
+- Add LinkedIn Icon
+
+README
+- Add ellipses around "Optimization-Inspired Art"
+- Align Outline Links to JUSTIFY
+- If `Add Icons`: Remove Top Contact Info
+
+Sections:
+- Contributions
+- Projects
+  - Identify
+  - Get Images
+  - Create Repos
+- Side Projects
+  - Get Images
+  - Create Repos
