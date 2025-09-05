@@ -1,8 +1,10 @@
-**Contact**  
-aidan.calderhead@gmail.com • [linkedin.com/in/aidan-calderhead](https://www.linkedin.com/in/aidan-calderhead/)
-
-**Outline**  
-[Approach](#approaching-data-a-batman-inspired-perspective) • [Projects](#case-files) • [Upskilling](#field-notes) • [Contributions](#behind-the-scenes) • [Interests](#open-investigations)
+<p align="center">
+  <a href="#approaching-data-a-batman-inspired-perspective">Approach</a> • 
+  <a href="#case-files">Projects</a> • 
+  <a href="#field-notes">Upskilling</a> • 
+  <a href="#behind-the-scenes">Contributions</a> • 
+  <a href="#open-investigations">Interests</a>
+</p>
 
 ## Approaching Data: A Batman-Inspired Perspective
 
@@ -79,7 +81,7 @@ My current areas of interest include (but are not limited to):
   - Humanitarian Logistics
   - Urban Traffic Control
   - Markov Chains
-  - "Opt Art" [Optimization-Inspired Art](https://www.jstor.org/stable/j.ctvh8qxtt)
+  - "Opt Art" ([Optimization-Inspired Art](https://www.jstor.org/stable/j.ctvh8qxtt))
 - **Machine Learning**
 - **[Bracketology](https://www.researchgate.net/publication/228435078_Bracketology_How_can_math_help)**
 - **Chess Theory**
