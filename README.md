@@ -3,7 +3,7 @@
 aidan.calderhead@gmail.com • [linkedin.com/in/aidan-calderhead](https://www.linkedin.com/in/aidan-calderhead/)
 
 **Outline**  
-[Approach](#approaching-data-a-batman-inspired-perspective) • [Projects](#case-files) • [Upskilling](#field-notes) • [Contributions](#behind-the-scenes) • [Interests](#open-investigations-research-interests)
+[Approach](#approaching-data-a-batman-inspired-perspective) • [Projects](#case-files) • [Upskilling](#field-notes) • [Contributions](#behind-the-scenes) • [Interests](#open-investigations)
 
 ## Approaching Data: A Batman-Inspired Perspective
 
@@ -67,7 +67,7 @@ TEXT GOES HERE
 
 <br />
 
-## Open Investigations: Research Interests
+## Open Investigations
 
 My current areas of interest include (but are not limited to):
 
