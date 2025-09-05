@@ -1,6 +1,4 @@
-Update Interests header.
-Write research interests.
-Write behind-the-scenes.
 Update Markdown render style
+Write behind-the-scenes
 Identify focal projects: Create Repos for focal projects
 Identify side projects: Create Repos for side projects
