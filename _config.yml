@@ -1,8 +1,8 @@
 # Site settings
 title: Aidan Calderhead Portfolio
 email: aidan.calderhead@gmail.com
-description: "Portfolio showcasing professional, academic, and personal data projects"
-url: "https://yourusername.github.io"
+description: "Portfolio showcasing professional, academic, and personal data projects, including my areas of research interest. This template was inspired by @archd3sai."
+url: "https://acalderhead.github.io"
 
 # Author
 author:
@@ -34,4 +34,4 @@ highlighter: rouge
 # Minima theme options (optional)
 minima:
   skin: dark
-  accent: "#2b6cb0" # example accent color
+  accent: "10e8a4" # example accent color
