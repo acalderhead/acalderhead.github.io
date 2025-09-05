@@ -24,28 +24,25 @@ I wrangle the chaos and uncover the beauty—through modeling, optimization, and
 
 ## Case Files
 
-EXAMPLES BELOW
+<div align="left">
+  <img src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg" width="250" align="left" />
+  <div style="margin-left: 270px;">
+    <strong><a href="https://github.com/acalderhead/university-course-timetabling">University Course Timetabling Optimization</a></strong><br><br>
+    A modular Python implementation of my undergraduate honors thesis course timetabling solver, built with OR-Tools CP-SAT. It extends an earlier OpenSolver prototype with enhanced constraints, greater flexibility, and structured I/O. The full thesis is available at <a href="http://rave.ohiolink.edu/etdc/view?acc_num=ma1715693054143423">OhioLINK ETD</a>.<br><br>
+    <em>Linear Programming</em> • <em>Python</em> • <em>Excel</em>
+  </div>
+</div>
 
-<img src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg" align="left" width="250" style="margin-right: 15px; margin-bottom: 10px;">
+&nbsp;
 
-**[TITLE](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
-
-Here goes your descriptive text. It will wrap around the image. Here goes your descriptive text. It will wrap around the image. Here goes your descriptive text. It will wrap around the image. Here goes your descriptive text. It will wrap around the image.
-<br clear="all">
-
-<img src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg" align="left" width="250" style="margin-right: 15px; margin-bottom: 10px;">
-
-**[TITLE](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
-
-Here goes your descriptive text. It will wrap around the image.
-<br clear="all">
-
-<img src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg" align="left" width="250" style="margin-right: 15px; margin-bottom: 10px;">
-
-**[TITLE](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
-
-Here goes your descriptive text. It will wrap around the image.
-<br clear="all">
+<div align="left">
+  <img src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg" width="250" align="left" />
+  <div style="margin-left: 270px;">
+    <strong><a href="https://github.com/acalderhead/predicting-hotel-cancellations">Predicting Hotel Cancellations</a></strong><br><br>
+    This master’s capstone develops interpretable models to predict hotel booking cancellations using data from two Portuguese hotels, with logistic regression and classification trees (cross-validated) highlighting key predictors for actionable operational insights.<br><br>
+    <em>Predictive Analytics</em> • <em>Business Insights</em> • <em>R</em>
+  </div>
+</div>
 
 ---
 
