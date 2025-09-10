@@ -4,8 +4,3 @@
 @import   
   "minima/skins/{{ site.minima.skin | default: 'dark' }}",
   "minima/initialize";;
-
-footer .social-links ul {
-  display: flex;
-  justify-content: flex-start; /* aligns to the left */
-}
