@@ -46,15 +46,15 @@ minima:
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized          Adaptive skin for solarized color scheme skins.
   skin: dark
-  accent: "#68c7d4"
+  #  accent: "#68c7d4"
 
   # Social links
   social_links:
     - title: GitHub
-      icon: github
+      icon: square-github
       url: "https://github.com/acalderhead"
     - title: LinkedIn
-      icon: linkedin
+      icon: square-linkedin
       url: "https://www.linkedin.com/in/aidan-calderhead/"
 
 hide_site_feed_link: true
