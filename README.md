@@ -67,10 +67,10 @@
   <article style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:40px;">
     <img src="/Images/Portfolio_Projects_PHC.jpg" 
          width="300" 
-         style="float:left; margin-right:15px; margin-bottom:10px;" 
+         style="flex-shrink:0; margin-right:15px; margin-bottom:10px;" 
          alt="PHC Image Preview" />
 
-  <div>
+  <div style="flex:1 1 300px; min-width:300px;">
     <h3>
       <a href="https://github.com/acalderhead/predicting-hotel-cancellations">
         Predicting Hotel Cancellations
