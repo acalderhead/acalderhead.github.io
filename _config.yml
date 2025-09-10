@@ -49,12 +49,8 @@ minima:
   accent: "#68c7d4"
 
 #   Social Media Links.
-social_links:
-  - title: Aidan on GitHub
-    icon: github
-    url: "https://github.com/acalderhead"
-  - title: Aidan on LinkedIn
-    icon: linkedin
-    url: "https://www.linkedin.com/in/aidan-calderhead/"
+  social_links:
+    github: acalderhead
+    linkedin: aidan-calderhead
 
 hide_site_feed_link: true
