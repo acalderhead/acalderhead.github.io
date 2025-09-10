@@ -5,14 +5,13 @@ Jekyll Minima Render:
 - Change footer portfolio description
 
 README:
-- Align project-to-image text
-- Re-select emojis (Upskilling & Contributions)
+- Select emojis (Upskilling & Contributions)
+- Sections:
+  - Contributions
+  - Side Projects
+    - Create Repos
+- Download Resume
 
-Sections:
-- Contributions
-- Side Projects
-  - Get Images
-  - Create Repos
+Add Resume Asset
 
-Create Notes for Mobile Layout:
-- Adjust bullets for `Approach` section
+*Check Mobile Layout*
