@@ -9,10 +9,9 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Updated regularly with new projects and refinements. 
-  Template inspiration by @archd3sai. 
-  Cheers to the computational mathematicians! May the journey be meaningful.
-  
+  Updated regularly with new projects and refinements.
+  Template inspiration by @archd3sai.
+  From abstraction to application, may the journey always remain meaningful.
 
 # Build settings
 # --------------
