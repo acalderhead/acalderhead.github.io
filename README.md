@@ -42,13 +42,13 @@
 <section>
   <h2 id="case-files">Case Files</h2>
 
-  <article style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:40px;">
+  <article style="display:flex; align-items:flex-start; margin-bottom:40px;">
     <img src="/Images/Portfolio_Projects_UCT.jpg" 
          width="300" 
-         style="float:left; margin-right:15px; margin-bottom:10px;" 
+         style="flex-shrink:0; margin-right:15px;"  
          alt="UCT Image Preview" />
 
-  <div>
+  <div style="flex:1; min-width:0;">
     <h3>
       <a href="https://github.com/acalderhead/university-course-timetabling">
         University Course Timetabling Optimization
