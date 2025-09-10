@@ -49,15 +49,10 @@ minima:
   accent: "10e8a4"
 
 #   Social Media Links.
-#     Renders icons via Font Awesome Free webfonts CDN, based on ordered list of
-#     entries. Valid entry keys:
-#       * title    Tooltip rendered on hovering over icon.
-#       * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
-#       * url      Full URL of social profile.
 social_links:
   - title: Aidan on GitHub
     icon: github
-    url: "https://github.com/jekyll/minima"
+    url: "https://github.com/acalderhead"
   - title: Aidan on LinkedIn
     icon: linkedin
-    url: "https://x.com/jekyllrb"
+    url: "https://www.linkedin.com/in/aidan-calderhead/"
