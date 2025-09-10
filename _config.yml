@@ -46,7 +46,7 @@ minima:
 #     * solarized-dark     Dark variant of solarized color scheme.
 #     * solarized          Adaptive skin for solarized color scheme skins.
   skin: dark
-  accent: "10e8a4"
+  accent: "#68c7d4"
 
 #   Social Media Links.
 social_links:
@@ -56,3 +56,5 @@ social_links:
   - title: Aidan on LinkedIn
     icon: linkedin
     url: "https://www.linkedin.com/in/aidan-calderhead/"
+
+hide_site_feed_link: false
