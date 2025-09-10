@@ -1,8 +1,7 @@
 Jekyll Minima Render:
-- Remove `Subscribe`
-- Add GitHub Icon
-- Add LinkedIn Icon
-- Change footer portfolio description
+- Remove header hyperlink
+- Change footer description?
+- Widen layout?
 
 README:
 - Select emojis (Upskilling & Contributions)
