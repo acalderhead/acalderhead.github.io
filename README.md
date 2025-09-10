@@ -45,9 +45,9 @@
   <article style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
     <img src="/Images/Portfolio_Projects_UCT.jpg" 
          alt="UCT Image Preview"
-         style="width:300px; max-width:100%; flex-shrink:0; margin-right:15px; margin-bottom:10px;" />
+         style="width:200px; max-width:100%; flex-shrink:0; margin-right:15px; margin-bottom:10px;" />
 
-  <div style="flex:1 1 300px; min-width:300px;">
+  <div style="flex:1 1 200px; min-width:200px;">
     <h3>
       <a href="https://github.com/acalderhead/university-course-timetabling">
         University Course Timetabling Optimization
@@ -66,9 +66,9 @@
   <article style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
     <img src="/Images/Portfolio_Projects_PHC.jpg" 
          alt="PHC Image Preview"
-         style="width:300px; max-width:100%; flex-shrink:0; margin-right:15px; margin-bottom:10px;" />
+         style="width:250px; max-width:100%; flex-shrink:0; margin-right:15px; margin-bottom:10px;" />
 
-  <div style="flex:1 1 300px; min-width:300px;">
+  <div style="flex:1 1 250px; min-width:250px;">
     <h3>
       <a href="https://github.com/acalderhead/predicting-hotel-cancellations">
         Predicting Hotel Cancellations
