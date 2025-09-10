@@ -1,5 +1,4 @@
 Jekyll Minima Render:
-- Remove header hyperlink
 - Widen layout?
 
 README:
