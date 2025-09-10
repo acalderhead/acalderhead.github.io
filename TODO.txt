@@ -2,14 +2,17 @@ Jekyll Minima Render:
 - Remove `Subscribe`
 - Add GitHub Icon
 - Add LinkedIn Icon
+- Change footer portfolio description
 
 README:
 - Align project-to-image text
-- Add ending paragraph
-- Re-select emojis (too busy?)
+- Re-select emojis (Upskilling & Contributions)
 
 Sections:
 - Contributions
 - Side Projects
   - Get Images
   - Create Repos
+
+Create Notes for Mobile Layout:
+- Adjust bullets for `Approach` section
