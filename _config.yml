@@ -38,19 +38,23 @@ sass:
 # Minima-specific settings (applicable to Minima v3 and above only)
 # -----------------------------------------------------------------
 minima:
-#   Minima skin selection. Available skins are:
-#     * classic            Default, light color scheme.
-#     * dark               Dark variant of the classic skin.
-#     * auto               Adaptive skin based on the classic and dark skins.
-#     * solarized-light    Light variant of solarized color scheme.
-#     * solarized-dark     Dark variant of solarized color scheme.
-#     * solarized          Adaptive skin for solarized color scheme skins.
+  #   Minima skin selection. Available skins are:
+  #     * classic            Default, light color scheme.
+  #     * dark               Dark variant of the classic skin.
+  #     * auto               Adaptive skin based on the classic and dark skins.
+  #     * solarized-light    Light variant of solarized color scheme.
+  #     * solarized-dark     Dark variant of solarized color scheme.
+  #     * solarized          Adaptive skin for solarized color scheme skins.
   skin: dark
   accent: "#68c7d4"
 
-#   Social Media Links.
+  # Social links
   social_links:
-    github: acalderhead
-    linkedin: aidan-calderhead
+    - title: GitHub
+      icon: github
+      url: "https://github.com/acalderhead"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/aidan-calderhead/"
 
 hide_site_feed_link: true
