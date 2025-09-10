@@ -1,6 +1,5 @@
 Jekyll Minima Render:
 - Remove header hyperlink
-- Change footer description?
 - Widen layout?
 
 README:
