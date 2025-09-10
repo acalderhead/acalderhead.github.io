@@ -57,4 +57,4 @@ social_links:
     icon: linkedin
     url: "https://www.linkedin.com/in/aidan-calderhead/"
 
-hide_site_feed_link: false
+hide_site_feed_link: true
