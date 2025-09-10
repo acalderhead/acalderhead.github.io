@@ -1,14 +1,23 @@
 Jekyll Minima Render:
-- Widen layout?
+1 Widen Layout
+2 Remove Sections Links for H3
 
 README:
-- Select emojis (Upskilling & Contributions)
-- Sections:
-  - Contributions
-  - Side Projects
-    - Create Repos
-- Download Resume
+1 Contributions
+  a Populate
+  b Collapsible?
+2 Side Projects
+  a Populate Examples
+  b Create Repos
+3 Interests: Add Additional Context Links
+* Apply H3 to Collapsible Titles
+* Add "Download Resume"
 
-Add Resume Asset
+Resume
+1 Update ATS Resume
+2 Add to Repo
 
-*Check Mobile Layout*
+Final Checklist:
+1 Emojis
+2 Links to Repos
+3 Check Mobile Layout
