@@ -44,9 +44,8 @@
 
   <article style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:40px;">
     <img src="/Images/Portfolio_Projects_UCT.jpg" 
-         width="300" 
-         style="flex-shrink:0; margin-right:15px; margin-bottom:10px;"   
-         alt="UCT Image Preview" />
+         alt="UCT Image Preview"
+         style="width:300px; max-width:100%; flex-shrink:0; margin-right:15px; margin-bottom:10px;" />
 
   <div style="flex:1 1 300px; min-width:300px;">
     <h3>
@@ -66,9 +65,8 @@
 
   <article style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:40px;">
     <img src="/Images/Portfolio_Projects_PHC.jpg" 
-         width="300" 
-         style="flex-shrink:0; margin-right:15px; margin-bottom:10px;" 
-         alt="PHC Image Preview" />
+         alt="PHC Image Preview"
+         style="width:300px; max-width:100%; flex-shrink:0; margin-right:15px; margin-bottom:10px;" />
 
   <div style="flex:1 1 300px; min-width:300px;">
     <h3>
