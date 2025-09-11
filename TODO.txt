@@ -1,5 +1,7 @@
-Jekyll Minima Render:
-1 Widen Layout
+Render:
+1 Update Background/Accent Colors
+2 Font Choice?
+3 Header/Footer text color?
 
 README:
 1 Contributions: Populate
@@ -15,3 +17,4 @@ Resume
 Final Checklist:
 1 Links to Repos
 2 Check Mobile Layout
+3 Recreate repo following proper GitHub commit conventions
