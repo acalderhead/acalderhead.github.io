@@ -91,6 +91,7 @@
 
   <details>
     <summary><strong>📈 Data Exploration & Statistics</strong></summary>
+    <br>
     <ul>
       <li>EXAMPLE 1</li>
       <li>EXAMPLE 2</li>
@@ -100,6 +101,7 @@
 
   <details>
     <summary><strong>🤖 Predictive & Machine Learning Models</strong></summary>
+    <br>
     <ul>
       <li>EXAMPLE 1</li>
       <li>EXAMPLE 2</li>
@@ -109,6 +111,7 @@
 
   <details>
     <summary><strong>🎨 Data Visualization & Storytelling</strong></summary>
+    <br>
     <ul>
       <li>EXAMPLE 1</li>
       <li>EXAMPLE 2</li>
@@ -118,6 +121,7 @@
 
   <details>
     <summary><strong>📐 Mathematical Modeling & Operations Research</strong></summary>
+    <br>
     <ul>
       <li>EXAMPLE 1</li>
       <li>EXAMPLE 2</li>
@@ -127,6 +131,7 @@
 
   <details>
     <summary><strong>🛠 Tools & Notes</strong></summary>
+    <br>
     <ul>
       <li>EXAMPLE 1</li>
       <li>EXAMPLE 2</li>
@@ -157,6 +162,7 @@
 
   <details>
     <summary><strong>🔍 Data Science</strong></summary>
+    <br>
     <ul>
       <li>Predicting Soccer Penalty Kicks</li>
       <li>Stock Portfolio Models for Fantasy Football</li>
@@ -166,6 +172,7 @@
 
   <details>
     <summary><strong>📐 Mathematical Modeling & Operations Research</strong></summary>
+    <br>
     <ul>
       <li>Timetable Optimization</li>
       <li>Humanitarian Logistics</li>
@@ -176,6 +183,7 @@
 
   <details>
     <summary><strong>🧩 Niche Interests</strong></summary>
+    <br>
     <ul>
       <li>"Opt Art" (<a href="https://www.jstor.org/stable/j.ctvh8qxtt">Optimization-Inspired Art</a>)</li>
       <li><a href="https://www.youtube.com/watch?v=f4OY4qhCI04">Pokemon Type Balancing</a></li>
