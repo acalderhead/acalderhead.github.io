@@ -164,7 +164,7 @@
     <summary><strong>🔍 Data Science</strong></summary>
     <br>
     <ul>
-      <li>Predicting Soccer Penalty Kicks</li>
+      <li><a href="https://analytics.scisports.com/research/penalty_predictor">Predicting Soccer Penalty Kicks</a></li>
       <li>Stock Portfolio Models for Fantasy Football</li>
       <li>Neural Network Architecture</li>
     </ul>
