@@ -2,6 +2,7 @@ Render:
 1 Update Background/Accent Colors
 2 Font Choice?
 3 Header/Footer text color?
+4 Center Header
 
 README:
 1 Contributions: Populate
