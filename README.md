@@ -89,51 +89,40 @@
 <section>
   <h2 id="field-notes">Field Notes</h2>
 
-  <details style="margin:0;">
-    <summary><h3 style="display:inline; font-weight:bold; margin:0;">📈 Data Exploration & Statistics</h3></summary>
-    <ul>
-      <li>EXAMPLE 1</li>
-      <li>EXAMPLE 2</li>
-      <li>EXAMPLE 3</li>
-    </ul>
-  </details>
+  <h3>📈 Data Exploration & Statistics</h3>
+  <ul>
+    <li>EXAMPLE 1</li>
+    <li>EXAMPLE 2</li>
+    <li>EXAMPLE 3</li>
+  </ul>
 
-  <details style="margin:0;">
-    <summary><h3 style="display:inline; font-weight:bold; margin:0;">🤖 Predictive & Machine Learning Models</h3></summary>
-    <ul>
-      <li>EXAMPLE 1</li>
-      <li>EXAMPLE 2</li>
-      <li>EXAMPLE 3</li>
-    </ul>
-  </details>
+  <h3>🤖 Predictive & Machine Learning Models</h3>
+  <ul>
+    <li>EXAMPLE 1</li>
+    <li>EXAMPLE 2</li>
+    <li>EXAMPLE 3</li>
+  </ul>
 
-  <details>
-    <summary><h3 style="display:inline; font-weight:bold;">🎨 Data Visualization & Storytelling</h3></summary>
-    <ul>
-      <li>EXAMPLE 1</li>
-      <li>EXAMPLE 2</li>
-      <li>EXAMPLE 3</li>
-    </ul>
-  </details>
+  <h3>🎨 Data Visualization & Storytelling</h3>
+  <ul>
+    <li>EXAMPLE 1</li>
+    <li>EXAMPLE 2</li>
+    <li>EXAMPLE 3</li>
+  </ul>
 
-  <details>
-    <summary><h3 style="display:inline; font-weight:bold;">📐 Mathematical Modeling & Operations Research</h3></summary>
-    <ul>
-      <li>EXAMPLE 1</li>
-      <li>EXAMPLE 2</li>
-      <li>EXAMPLE 3</li>
-    </ul>
-  </details>
+  <h3>📐 Mathematical Modeling & Operations Research</h3>
+  <ul>
+    <li>EXAMPLE 1</li>
+    <li>EXAMPLE 2</li>
+    <li>EXAMPLE 3</li>
+  </ul>
 
-  <details>
-    <summary><h3 style="display:inline; font-weight:bold;">🛠 Tools & Notes</h3></summary>
-    <ul>
-      <li>EXAMPLE 1</li>
-      <li>EXAMPLE 2</li>
-      <li>EXAMPLE 3</li>
-    </ul>
-  </details>
-</section>
+  <h3>🛠 Tools & Notes</h3>
+  <ul>
+    <li>EXAMPLE 1</li>
+    <li>EXAMPLE 2</li>
+    <li>EXAMPLE 3</li>
+  </ul>
 
 <hr>
 
@@ -155,45 +144,35 @@
     explore new problems where computational mathematics can contribute to meaningful impact.
   </p>
 
-  <details>
-    <summary><h3 style="display:inline; font-weight:bold; margin:0;">🔍 Data Science</h3></summary>
-    <ul>
-      <li><a href="https://analytics.scisports.com/research/penalty_predictor">Predicting Soccer Penalty Kicks</a></li>
-      <li>Stock Portfolio Models for Fantasy Football</li>
-      <li>Neural Network Architecture</li>
-    </ul>
-  </details>
+  <h3>🔍 Data Science</h3>
+  <ul>
+    <li><a href="https://analytics.scisports.com/research/penalty_predictor">Predicting Soccer Penalty Kicks</a></li>
+    <li>Stock Portfolio Models for Fantasy Football</li>
+    <li>Neural Network Architecture</li>
+  </ul>
 
-  <details>
-    <summary><h3 style="display:inline; font-weight:bold; margin:0;">📐 Mathematical Modeling & Operations Research</h3></summary>
-    <ul>
-      <li>Timetable Optimization</li>
-      <li>Humanitarian Logistics</li>
-      <li>Urban Traffic Control</li>
-      <li><a href="https://www.researchgate.net/publication/228435078_Bracketology_How_can_math_help">Bracketology</a></li>
-    </ul>
-  </details>
+  <h3>📐 Mathematical Modeling & Operations Research</h3>
+  <ul>
+    <li>Timetable Optimization</li>
+    <li>Humanitarian Logistics</li>
+    <li>Urban Traffic Control</li>
+    <li><a href="https://www.researchgate.net/publication/228435078_Bracketology_How_can_math_help">Bracketology</a></li>
+  </ul>
 
-  <details>
-    <summary><h3 style="display:inline; font-weight:bold; margin:0;">🧩 Niche Interests</h3></summary>
-    <ul>
-      <li>"Opt Art" &rarr; <a href="https://www.jstor.org/stable/j.ctvh8qxtt">Optimization-Inspired Art</a></li>
-      <li><a href="https://www.youtube.com/watch?v=f4OY4qhCI04">Pokemon Type Balancing</a></li>
-      <li>Developing a Scientific Theory of Chess</li>
-    </ul>
-  </details>
+  <h3>🧩 Niche Interests</h3>
+  <ul>
+    <li>"Opt Art" &rarr; <a href="https://www.jstor.org/stable/j.ctvh8qxtt">Optimization-Inspired Art</a></li>
+    <li><a href="https://www.youtube.com/watch?v=f4OY4qhCI04">Pokemon Type Balancing</a></li>
+    <li>Developing a Scientific Theory of Chess</li>
+  </ul>
 
-  <details>
-    <summary><h3 style="display:inline; font-weight:bold; margin:0;">📝 Continued Learning</h3></summary>
-    <ul>
-      <li>Time Series Analysis</li>
-      <li>Principal Components Analysis</li>
-      <li>Markov Chains</li>
-      <li>Databricks</li>
-    </ul>
-  </details>
-
-  <br>
+  <h3>📝 Continued Learning</h3>
+  <ul>
+    <li>Time Series Analysis</li>
+    <li>Principal Components Analysis</li>
+    <li>Markov Chains</li>
+    <li>Databricks</li>
+  </ul>
 
   <p>
     I'd be happy to connect. You can find my contact info and social links below.
