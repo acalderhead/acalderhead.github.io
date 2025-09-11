@@ -1,8 +1,9 @@
 Render:
 1 Update Background/Accent Colors
-2 Font Choice?
-3 Header/Footer text color?
+2 Font: Noto Sans
+3 Header/Footer font control?
 4 Center Header
+5 Relocate Site navigation in header?
 
 README:
 1 Contributions: Populate
