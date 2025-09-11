@@ -90,7 +90,8 @@
   <h2 id="field-notes">Field Notes</h2>
 
   <details>
-    <summary><h3 style="display:inline; font-weight:bold; margin:0; padding-bottom:0.3em;">📈 Data Exploration & Statistics</h3></summary>
+    <summary><h3 style="display:inline; font-weight:bold; margin:0;">📈 Data Exploration & Statistics</h3></summary>
+    <div>&nbsp;</div>
     <ul>
       <li>EXAMPLE 1</li>
       <li>EXAMPLE 2</li>
@@ -100,7 +101,7 @@
 
   <details>
     <summary><strong>🤖 Predictive & Machine Learning Models</strong></summary>
-    <br>
+    <div>&nbsp;</div>
     <ul>
       <li>EXAMPLE 1</li>
       <li>EXAMPLE 2</li>
