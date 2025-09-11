@@ -90,8 +90,7 @@
   <h2 id="field-notes">Field Notes</h2>
 
   <details>
-    <summary><strong>📈 Data Exploration & Statistics</strong></summary>
-    <br>
+    <summary><h3>📈 Data Exploration & Statistics</h3></summary>
     <ul>
       <li>EXAMPLE 1</li>
       <li>EXAMPLE 2</li>
