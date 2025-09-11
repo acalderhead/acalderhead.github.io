@@ -4,7 +4,9 @@
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
     {%- assign page_titles = site.pages | map: 'title' | compact %}
 
-    <span class="site-title">{{ site.title | escape }}</span>
+    <span class="site-title" style="display:block; text-align:center;">
+      {{ site.title | escape }}
+    </span>
 
     {%- unless page_titles == empty %}
       <nav class="site-nav">
