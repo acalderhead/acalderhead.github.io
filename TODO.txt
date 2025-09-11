@@ -1,15 +1,11 @@
 Jekyll Minima Render:
 1 Widen Layout
-2 Remove Sections Links for H3
 
 README:
-1 Contributions
-  a Populate
-  b Collapsible?
+1 Contributions: Populate
 2 Side Projects
   a Populate Examples
   b Create Repos
-* Apply H3 to Collapsible Titles
 * Add "Download Resume"
 
 Resume
