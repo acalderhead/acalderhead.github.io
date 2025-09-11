@@ -89,9 +89,17 @@
 <section>
   <h2 id="field-notes">Field Notes</h2>
 
-  <details>
+  <details style="margin:0;">
     <summary><h3 style="display:inline; font-weight:bold; margin:0;">📈 Data Exploration & Statistics</h3></summary>
-    <div>&nbsp;</div>
+    <ul>
+      <li>EXAMPLE 1</li>
+      <li>EXAMPLE 2</li>
+      <li>EXAMPLE 3</li>
+    </ul>
+  </details>
+
+  <details style="margin:0;">
+    <summary><h3 style="display:inline; font-weight:bold; margin:0;">🤖 Predictive & Machine Learning Models</h3></summary>
     <ul>
       <li>EXAMPLE 1</li>
       <li>EXAMPLE 2</li>
@@ -100,8 +108,7 @@
   </details>
 
   <details>
-    <summary><strong>🤖 Predictive & Machine Learning Models</strong></summary>
-    <div>&nbsp;</div>
+    <summary><h3 style="display:inline; font-weight:bold;">🎨 Data Visualization & Storytelling</h3></summary>
     <ul>
       <li>EXAMPLE 1</li>
       <li>EXAMPLE 2</li>
@@ -110,8 +117,7 @@
   </details>
 
   <details>
-    <summary><strong>🎨 Data Visualization & Storytelling</strong></summary>
-    <br>
+    <summary><h3 style="display:inline; font-weight:bold;">📐 Mathematical Modeling & Operations Research</h3></summary>
     <ul>
       <li>EXAMPLE 1</li>
       <li>EXAMPLE 2</li>
@@ -120,18 +126,7 @@
   </details>
 
   <details>
-    <summary><strong>📐 Mathematical Modeling & Operations Research</strong></summary>
-    <br>
-    <ul>
-      <li>EXAMPLE 1</li>
-      <li>EXAMPLE 2</li>
-      <li>EXAMPLE 3</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary><strong>🛠 Tools & Notes</strong></summary>
-    <br>
+    <summary><h3 style="display:inline; font-weight:bold;">🛠 Tools & Notes</h3></summary>
     <ul>
       <li>EXAMPLE 1</li>
       <li>EXAMPLE 2</li>
@@ -161,8 +156,7 @@
   </p>
 
   <details>
-    <summary><strong>🔍 Data Science</strong></summary>
-    <br>
+    <summary><h3 style="display:inline; font-weight:bold; margin:0;">🔍 Data Science</h3></summary>
     <ul>
       <li><a href="https://analytics.scisports.com/research/penalty_predictor">Predicting Soccer Penalty Kicks</a></li>
       <li>Stock Portfolio Models for Fantasy Football</li>
@@ -171,8 +165,7 @@
   </details>
 
   <details>
-    <summary><strong>📐 Mathematical Modeling & Operations Research</strong></summary>
-    <br>
+    <summary><h3 style="display:inline; font-weight:bold; margin:0;">📐 Mathematical Modeling & Operations Research</h3></summary>
     <ul>
       <li>Timetable Optimization</li>
       <li>Humanitarian Logistics</li>
@@ -182,18 +175,16 @@
   </details>
 
   <details>
-    <summary><strong>🧩 Niche Interests</strong></summary>
-    <br>
+    <summary><h3 style="display:inline; font-weight:bold; margin:0;">🧩 Niche Interests</h3></summary>
     <ul>
-      <li>"Opt Art" (<a href="https://www.jstor.org/stable/j.ctvh8qxtt">Optimization-Inspired Art</a>)</li>
+      <li>"Opt Art" &rarr; <a href="https://www.jstor.org/stable/j.ctvh8qxtt">Optimization-Inspired Art</a></li>
       <li><a href="https://www.youtube.com/watch?v=f4OY4qhCI04">Pokemon Type Balancing</a></li>
       <li>Developing a Scientific Theory of Chess</li>
     </ul>
   </details>
 
   <details>
-    <summary><strong>📝 Continued Learning</strong></summary>
-    <br>
+    <summary><h3 style="display:inline; font-weight:bold; margin:0;">📝 Continued Learning</h3></summary>
     <ul>
       <li>Time Series Analysis</li>
       <li>Principal Components Analysis</li>
