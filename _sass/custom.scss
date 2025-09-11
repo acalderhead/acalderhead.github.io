@@ -1,8 +1,10 @@
 /* Force full background black */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wdth,wght@0,87.5,100..900;1,87.5,100..900&family=Source+Sans+3&display=swap');
+
 body {
-  background-color: #09151a !important;
+  background-color: #0d1112 !important;
   color: #f0f8ff !important; /* adjust text for readability */
-  font-family: "Roboto", sans-serif;
+  font-family: "Noto Sans", sans-serif;
 }
 
 /* Optional: links */
