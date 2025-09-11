@@ -18,6 +18,5 @@ Resume
 2 Add to Repo
 
 Final Checklist:
-1 Emojis
-2 Links to Repos
-3 Check Mobile Layout
+1 Links to Repos
+2 Check Mobile Layout
