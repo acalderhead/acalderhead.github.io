@@ -59,3 +59,6 @@ minima:
       url: "https://www.linkedin.com/in/aidan-calderhead/"
 
 hide_site_feed_link: true
+
+include:
+  - assets/css/style.scss
