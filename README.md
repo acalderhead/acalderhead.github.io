@@ -202,6 +202,8 @@
     </ul>
   </details>
 
+  <br>
+
   <p>
     I'd be happy to connect. You can find my contact info and social links below.
   </p>
