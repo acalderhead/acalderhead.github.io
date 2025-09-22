@@ -1,20 +1,15 @@
 Render:
-1 Update Background/Accent Colors
-2 Font: Noto Sans
-3 Header/Footer font control?
-4 Center Header
-5 Relocate Site navigation in header?
+1 Font: Noto Sans
+2 Header/Footer font control (?)
+3 Center Header
+4 Relocate Site navigation in header (?)
 
 README:
 1 Contributions: Populate
 2 Side Projects
   a Populate Examples
   b Create Repos
-* Add "Download Resume"
-
-Resume
-1 Update ATS Resume
-2 Add to Repo
+3 Add "Download Resume"
 
 Final Checklist:
 1 Links to Repos
