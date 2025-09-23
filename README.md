@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  [📄 Download my Resume](./CalderheadAidan_Resume.pdf)
+  📄 <a href="/CalderheadAidan_Resume.pdf">Download my Resume</a>
 </p>
 
 <hr>
