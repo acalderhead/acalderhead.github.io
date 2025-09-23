@@ -1,7 +1,3 @@
-Render:
-1 Font: Noto Sans
-2 Header/Footer font control (?)
-
 README:
 1 Contributions: Populate
 2 Side Projects
