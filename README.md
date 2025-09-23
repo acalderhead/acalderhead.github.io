@@ -6,6 +6,10 @@
   <a href="#open-investigations">Interests</a>
 </p>
 
+<p align="center">
+  [📄 Download my Resume](./CalderheadAidan_Resume.pdf)
+</p>
+
 <hr>
 
 <section>
