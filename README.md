@@ -91,28 +91,28 @@
 
   <h3>📈 Data Exploration & Statistics</h3>
   <ul>
-    <li>EXAMPLE 1</li>
-    <li>EXAMPLE 2</li>
+    <li>UC | Stats | Wine Project</li>
+    <li>UC | Wrangling | Grocery Analysis</li>
     <li>EXAMPLE 3</li>
   </ul>
 
   <h3>🤖 Predictive & Machine Learning Models</h3>
   <ul>
-    <li>EXAMPLE 1</li>
+    <li>UC | Mining | Presentation</li>
     <li>EXAMPLE 2</li>
     <li>EXAMPLE 3</li>
   </ul>
 
   <h3>🎨 Data Visualization & Storytelling</h3>
   <ul>
-    <li>EXAMPLE 1</li>
-    <li>EXAMPLE 2</li>
+    <li>UC | Viz | Traffic</li>
+    <li>UC | Viz | Olympics</li>
     <li>EXAMPLE 3</li>
   </ul>
 
   <h3>📐 Mathematical Modeling & Operations Research</h3>
   <ul>
-    <li>EXAMPLE 1</li>
+    <li>UC | Simulation | Traffic Project</li>
     <li>EXAMPLE 2</li>
     <li>EXAMPLE 3</li>
   </ul>
@@ -129,7 +129,13 @@
 <section>
   <h2 id="behind-the-scenes">Behind the Scenes</h2>
   <ul>
-    <li>📝 Documenting contributions, experiments, and reflections.</li>
+    <li>From May 2025 to today, I provide statistical consulting for a faculty research project in the Natural Sciences at Malone University.</li>
+    <li>In September 2025, I created an NLP model using BERTopic to extract and validate themes from Liberty University’s environmental scan.</li>
+    <li>In Fall 2024, I served as a Graduate Teaching Assistant for business analytics courses at the University of Cincinnati.</li>
+    <li>From 2021 to 2024, I tutored statistics, mathematics, and computer science at Malone University.</li>
+    <li>In Summer 2023, I contributed to a Tableau dashboard with IT for Malone’s president’s council.</li>
+    <li>In the 2022-23 academic year, I built a Tableau dashboard to streamline admissions enrollment reporting at Malone.</li>
+    <li>In April 2021, I collaborated with MATH 304 (Probability & Statistics II) classmates to analyze Ninja Hub's Instagram performance.</li>
   </ul>
 </section>
 
