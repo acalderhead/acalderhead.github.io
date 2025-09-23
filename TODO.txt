@@ -1,15 +1,13 @@
 Render:
 1 Font: Noto Sans
 2 Header/Footer font control (?)
-3 Center Header
-4 Relocate Site navigation in header (?)
 
 README:
 1 Contributions: Populate
 2 Side Projects
   a Populate Examples
   b Create Repos
-3 Add "Download Resume"
+3 Add "Download Resume" (where?)
 
 Final Checklist:
 1 Links to Repos
