@@ -2,7 +2,6 @@ README:
 1 Side Projects
   a Populate Examples
   b Create Repos
-2 Add "Download Resume" (where?)
 
 Final Checklist:
 1 Links to Repos
