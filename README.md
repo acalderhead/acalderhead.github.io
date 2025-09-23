@@ -129,13 +129,38 @@
 <section>
   <h2 id="behind-the-scenes">Behind the Scenes</h2>
   <ul>
-    <li>From May 2025 to today, I provide statistical consulting for a faculty research project in the Natural Sciences at Malone University.</li>
-    <li>In September 2025, I created an NLP model using BERTopic to extract and validate themes from Liberty University’s environmental scan.</li>
-    <li>In Fall 2024, I served as a Graduate Teaching Assistant for business analytics courses at the University of Cincinnati.</li>
-    <li>From 2021 to 2024, I tutored statistics, mathematics, and computer science at Malone University.</li>
-    <li>In Summer 2023, I contributed to a Tableau dashboard with IT for Malone’s president’s council.</li>
-    <li>In the 2022-23 academic year, I built a Tableau dashboard to streamline admissions enrollment reporting at Malone.</li>
-    <li>In April 2021, I collaborated with MATH 304 (Probability & Statistics II) classmates to analyze Ninja Hub's Instagram performance.</li>
+    <li>
+      From May 2025 to today, 
+      I provide statistical exploration and consulting for a faculty research ornithology project 
+      in the Natural Sciences at Malone University that will be submitted for publication.
+    </li>
+    <li>
+      In September 2025, 
+      I created an NLP model using BERTopic to extract, refine, and validate themes 
+      from Liberty University’s environmental scan that will also inform future scans.</li>
+    <li>
+      In Fall 2024, 
+      I served as a Graduate Teaching Assistant for business analytics courses 
+      at the University of Cincinnati.</li>
+    <li>
+      From 2021 to 2024, 
+      I tutored statistics, mathematics, and computer science at Malone University.
+    </li>
+    <li>
+      In Summer 2023, 
+      I contributed to a Tableau dashboard with IT 
+      for Malone’s president’s council.
+    </li>
+    <li>
+      In the 2022-23 academic year, 
+      I built a Tableau dashboard to streamline admissions enrollment reporting 
+      at Malone.
+    </li>
+    <li>
+      In April 2021, 
+      I collaborated with MATH 304 (Probability & Statistics II) classmates to analyze and present on the Instagram performance 
+      of Ninja Hub Gym (a local business).
+    </li>
   </ul>
 </section>
 
