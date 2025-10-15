@@ -134,8 +134,9 @@
   <h2 id="behind-the-scenes">Behind the Scenes</h2>
   <p>
     From May 2025 to today, 
-    I provide statistical exploration and consulting for a faculty research ornithology project 
-    in the Natural Sciences at Malone University that will be submitted for publication.
+    I provide statistical exploration and consulting for one faculty-led and one honors thesis 
+    research ornithology projects in the Natural Sciences at Malone University that will be 
+    submitted for publication.
   </p>
   <p>
     In September 2025, 
@@ -181,6 +182,7 @@
 
   <h3>🔍 Data Science</h3>
   <ul>
+    <li>LangGraph LLM Workflows</li>
     <li><a href="https://analytics.scisports.com/research/penalty_predictor">Predicting Soccer Penalty Kicks</a></li>
     <li>Stock Portfolio Models for Fantasy Football</li>
     <li>Neural Network Architecture</li>
